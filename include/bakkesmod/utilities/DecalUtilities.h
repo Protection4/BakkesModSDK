@@ -14,6 +14,7 @@ struct BodyAssetIdsCheckResult
 	int skin_id;
 };
 
+/// @brief 
 class BAKKESMOD_PLUGIN_IMPORT DecalUtilities
 {
 public:
